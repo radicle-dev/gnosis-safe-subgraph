@@ -6,7 +6,7 @@ This Subgraph dynamically tracks activity on any Gnosis Safe multisignature wall
 ### Networks:
 
 - Ropsten https://thegraph.com/explorer/subgraph/radicle-dev/gnosis-safe-ropsten
-- Mainnet https://thegraph.com/explorer/subgraph/radicle-dev/gnosis-safe-mainnet
+- Mainnet https://thegraph.com/explorer/subgraph/radicle-dev/gnosis-safe
 
 ## Prerequiste
 
